@@ -5,3 +5,4 @@
 */*.pe filter=lfs diff=lfs merge=lfs -text
 */*.mt filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+*.pr filter=lfs diff=lfs merge=lfs -text
