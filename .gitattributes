@@ -6,3 +6,5 @@
 */*.mt filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.pr filter=lfs diff=lfs merge=lfs -text
+*/*/*/.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
