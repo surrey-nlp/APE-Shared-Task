@@ -104,13 +104,13 @@ The official results of the 2022 APE shared task will be available here. <br/>
 
 ## Important dates
 
- - Release of training and development data	May 17, 2022
- - Release of test data	July 11, 2022
- - APE system submission deadline	July 18, 2022
- - Manual evaluation	August
- - Paper submission deadline	September 7, 2022
- - Notification of acceptance	October 9, 2022
- - Camera-ready deadline	October 16, 2022
+ - Release of training and development data:	May 17, 2022
+ - Release of test data:	July 11, 2022
+ - APE system submission deadline:	July 18, 2022
+ - Manual evaluation:	August
+ - Paper submission deadline:	September 7, 2022
+ - Notification of acceptance:	October 9, 2022
+ - Camera-ready deadline:	October 16, 2022
 
 ## Organizers
 
