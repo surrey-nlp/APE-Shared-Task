@@ -125,4 +125,4 @@ The official results of the 2022 APE shared task will be available here. <br/>
 
 For any information or question about the task, please send an email to: wmt-ape@fbk.eu. <br/>
 
-To be always updated about this year's edition of the APE task, you can also join the wmt-ape group. <br/>
+To be always updated about this year's edition of the APE task, you can also join the [wmt-ape group](http://groups.google.com/a/fbk.eu/group/wmt-ape/). <br/>
